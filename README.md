@@ -1,9 +1,9 @@
-SOV Core 1.3
+SOV Core 2.0.1
 ===============================
 
-
-https://www.sovereigncoin.cc
-https://www.singamining.com
+Website: https://www.sovcore.org
+Explorer: http://explorer.sovcore.org/
+Exchange: https://crex24.com/exchange/SOV-BTC
 
 What is SOV?
 ----------------
@@ -15,7 +15,7 @@ are carried out collectively by the network. SOV Core is the name of the open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the SOV Core software, see https://www.sovproject.org/.
+the SOV Core software, see https://www.sovcore.org/.
 
 
 License
@@ -28,7 +28,7 @@ Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/sovcrypto/sov/tags) are created to indicate new official,
+[Tags](https://github.com/SovCoinX/SovCoin/tags) are created to indicate new official,
 stable release versions of SOV Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
